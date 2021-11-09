@@ -1,0 +1,7 @@
+derby.log
+spark-warehouse
+target
+project
+.idea
+.gitlab-ci.yml
+.DS_Store
